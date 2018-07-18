@@ -1,8 +1,8 @@
 # My_family_Java_System
 
 Be based on love,friendship,timeline,font and smile :) ...                           </br>
-
-
+     I like android studio.Don't like eclipse.                                       </br>
+                     
     ..|                                                                                  
       |　　　　　　　　　　　　　　　　　　　　　    :)                                        
       |                                         |                                        
